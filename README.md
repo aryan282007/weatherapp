@@ -216,7 +216,7 @@ MIT License - Feel free to use this project for personal or commercial purposes.
 
 ## Author
 
-Created as a React weather application mini-project using Vite and Material-UI.
+Aryan Yadav
 
 ## Support
 
