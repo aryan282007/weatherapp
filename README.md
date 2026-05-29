@@ -67,9 +67,7 @@ src/
 ### Steps
 
 1. **Clone/Download the project:**
-   ```bash
-   cd "c:\Users\lenovo\OneDrive\Desktop\coding shit\webdev\react-basic\mini-project-React"
-   ```
+   
 
 2. **Install dependencies:**
    ```bash
